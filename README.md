@@ -34,7 +34,7 @@
 ```python
 class NehaGeorge:
     role        = "Software Engineer | AI/ML | Flutter Developer | Security Researcher"
-    education   = "B.Tech – Computer Science & Engineering (AI/ML Specialization)"
+    education   = "B.Tech – Computer Science & Engineering (Data Science)"
     philosophy  = "Build technology that empowers people and solves real-world problems."
     domains     = [
         "Women Safety Technology",
