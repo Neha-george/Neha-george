@@ -1,6 +1,6 @@
 # Neha George
 
-B.Tech — Computer Science & Engineering (AI/ML Specialization) · India
+B.Tech — Computer Science & Engineering (Data Science) · India
 
 [LinkedIn](https://www.linkedin.com/in/neha-george26/) · [Email](mailto:nehageorge026@gmail.com) · [GitHub](https://github.com/Neha-george)
 
