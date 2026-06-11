@@ -8,14 +8,6 @@ B.Tech — Computer Science & Engineering (Data Science) · India
 
 ---
 
-## About Me
-
-Software Engineer who enjoys working across the stack — from mobile and web development to AI/ML models and cryptographic systems. My projects span quantum key distribution, predictive modeling, full-stack development, and cybersecurity.
-
-Open to full-time roles, internships, open source collaboration, and research opportunities.
-
----
-
 ## ⚙️ Tech Stack
 
 <div align="center">
