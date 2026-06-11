@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Neha%20George&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20Python%20%7C%20Quantum%20Cryptography%20%7C%20AI%2FML&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Neha%20George&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%7C%20TypeScript%20%7C%20Flutter%20%7C%20Quantum%20Cryptography%20%7C%20AI%2FML&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Building+apps+that+make+a+difference+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+Flutter+%7C+Quantum+Crypto+%E2%9A%9B%EF%B8%8F;From+mobile+apps+to+quantum-safe+systems+%E2%9C%A8;Women+Safety+%7C+AI%2FML+%7C+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Building+things+that+matter+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+Flutter+%7C+Quantum+Crypto+%E2%9A%9B%EF%B8%8F;Mobile+%7C+Web+%7C+AI%2FML+%7C+Cryptography+%E2%9C%A8;Open+Source+%7C+Cybersecurity+%7C+Full+Stack+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,15 +15,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha-george)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neha.george@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-george26/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehageorge026@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neha-george)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neha-george&style=flat-square&color=7C3AED&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Neha-george?style=flat-square&color=6D28D9&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/Neha-george?style=flat-square&color=5B21B6&logo=github&label=Total+Stars)
 
 </div>
 
@@ -33,11 +31,9 @@
 
 ```python
 class NehaGeorge:
-    role        = " AI/ML | Flutter Developer | Security Researcher"
-    education   = "B.Tech – Computer Science & Engineering (Data Science)"
+    education   = "B.Tech – Computer Science & Engineering (AI/ML Specialization)"
     philosophy  = "Build technology that empowers people and solves real-world problems."
     domains     = [
-        "Women Safety Technology",
         "Quantum Cryptography",
         "AI / Machine Learning",
         "Full Stack Development",
@@ -48,7 +44,7 @@ class NehaGeorge:
     currently   = "Building quantum-safe systems and AI-powered applications."
 ```
 
-I'm a **Software Engineer** passionate about using technology to solve meaningful problems. From building **Flutter mobile apps for women's safety** to implementing the **BB84 quantum key distribution protocol**, my work spans the full spectrum — mobile, web, AI/ML, and cryptography.
+I'm a **Software Engineer** who enjoys working across the stack — from mobile and web development to AI/ML models and cryptographic systems. My projects reflect a curiosity-driven approach to engineering, exploring domains like quantum key distribution, predictive modeling, and full-stack application development.
 
 I believe every line of code is an opportunity to make an impact. I engineer solutions that are purposeful, secure, and production-ready.
 
@@ -88,16 +84,16 @@ I believe every line of code is an opportunity to make an impact. I engineer sol
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Machine Learning** | ████████████ Proficient | Supervised & Unsupervised Learning, scikit-learn, Feature Engineering |
-| **Data Analysis** | ████████████ Proficient | Pandas, NumPy, EDA, Statistical Modeling, Visualization |
-| **Quantum Cryptography** | ███████████░ Advanced | BB84 Protocol, Quantum Key Distribution, Qiskit |
-| **Natural Language Processing** | ████████░░░░ Intermediate | Text Classification, Sentiment Analysis, NLTK |
-| **Computer Vision** | ████████░░░░ Intermediate | OpenCV, Image Processing, Surveillance Systems |
-| **Deep Learning** | ███████░░░░░ Intermediate | Neural Networks, TensorFlow, Keras |
-| **Predictive Modeling** | ████████████ Proficient | Loan Prediction, Risk Assessment, Classification |
-| **Security & Cryptography** | ███████████░ Advanced | Quantum-safe Protocols, Secure Key Exchange, Threat Detection |
+| Domain | Details |
+|--------|---------|
+| **Machine Learning** | Supervised & Unsupervised Learning, scikit-learn, Feature Engineering |
+| **Data Analysis** | Pandas, NumPy, EDA, Statistical Modeling, Visualization |
+| **Quantum Cryptography** | BB84 Protocol, Quantum Key Distribution, Qiskit |
+| **Natural Language Processing** | Text Classification, Sentiment Analysis, NLTK |
+| **Computer Vision** | OpenCV, Image Processing, Surveillance Systems |
+| **Deep Learning** | Neural Networks, TensorFlow, Keras |
+| **Predictive Modeling** | Loan Prediction, Risk Assessment, Classification |
+| **Security & Cryptography** | Quantum-safe Protocols, Secure Key Exchange, Threat Detection |
 
 </div>
 
@@ -106,22 +102,22 @@ I believe every line of code is an opportunity to make an impact. I engineer sol
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📱 HeForHer — Flutter App for Women's Safety & Empowerment</b></summary>
+<summary><b>📱 HeForHer — Cross-Platform Flutter Mobile Application</b></summary>
 
 <br/>
 
-A cross-platform mobile application built with Flutter, designed to enhance women's safety through real-time features. HeForHer provides SOS alerts, emergency contact management, and safety resources in an intuitive, accessible mobile interface. Built with native performance across Android and iOS.
+A cross-platform mobile application built with Flutter, delivering a clean and performant experience across Android and iOS. HeForHer demonstrates the power of Flutter's native rendering for building accessible, real-time mobile features with a polished UI.
 
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Dart · Flutter · C++ · Swift · Kotlin · Firebase |
 | **Platform** | Android · iOS (cross-platform via Flutter) |
-| **Features** | SOS Emergency Alerts · Live Location Sharing · Emergency Contacts · Safety Resources |
+| **Features** | Real-time features · Location services · Emergency contacts · Push notifications |
 | **Performance** | Native-grade UI rendering · Offline-capable core features |
-| **Impact** | ⭐ 2 Stars · 1 Fork · Addresses real-world women's safety needs |
+| **Impact** | ⭐ 2 Stars · 1 Fork |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-HeForHer-7C3AED?style=flat-square&logo=github)](https://github.com/Neha-george/HeForHer) |
 
-HeForHer demonstrates a deep commitment to purpose-driven engineering — leveraging the Flutter framework to deliver a seamless, cross-platform safety tool. The app integrates real-time geolocation, push notifications, and a clean, accessible UI designed for high-stress situations where speed and reliability are critical.
+HeForHer leverages the Flutter framework to deliver a seamless, cross-platform mobile experience. The app integrates real-time geolocation, push notifications, and a clean, accessible UI built for reliability and speed.
 
 </details>
 
@@ -150,7 +146,7 @@ The system simulates Alice-to-Bob quantum channel communication, basis selection
 ---
 
 <details>
-<summary><b>💰 Expense Auditor — AI-Powered Personal Finance Intelligence Platform</b></summary>
+<summary><b>💰 Expense Auditor — Personal Finance Intelligence Platform</b></summary>
 
 <br/>
 
@@ -172,7 +168,7 @@ Expense Auditor features a clean TypeScript architecture separating concerns acr
 ---
 
 <details>
-<summary><b>🛡️ Vijilant — AI-Powered Python Surveillance & Threat Detection System</b></summary>
+<summary><b>🛡️ Vijilant — Python Surveillance & Threat Detection System</b></summary>
 
 <br/>
 
@@ -187,7 +183,7 @@ An intelligent surveillance and monitoring system built in Python, combining com
 | **Impact** | Intelligent, automated surveillance replacing manual monitoring |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-vijilant-4C1D95?style=flat-square&logo=github)](https://github.com/Neha-george/vijilant) |
 
-Vijilant integrates a Python OpenCV backend with a live-updating HTML frontend, creating a complete surveillance pipeline. The system is designed with extensibility in mind — detection modules are pluggable, allowing new threat classifiers to be added without modifying the core monitoring pipeline.
+Vijilant integrates a Python OpenCV backend with a live-updating HTML frontend, creating a complete surveillance pipeline. Detection modules are pluggable, allowing new threat classifiers to be added without modifying the core monitoring pipeline.
 
 </details>
 
@@ -206,147 +202,12 @@ A machine learning project that predicts loan approval decisions based on applic
 | **Domain** | FinTech · Credit Risk · Predictive Modeling |
 | **Models** | Logistic Regression · Random Forest · Decision Tree · SVM |
 | **Features** | Feature engineering · EDA · Model comparison · Explainability |
-| **Impact** | Demonstrates applied ML for high-stakes financial decision-making |
+| **Impact** | Applied ML for high-stakes financial decision-making |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-loan_prediction-3B0764?style=flat-square&logo=github)](https://github.com/Neha-george/loan_sanctioning_prediction) |
 
-The project follows a rigorous ML pipeline: exploratory data analysis, data cleaning, feature selection, model training with cross-validation, hyperparameter tuning, and performance evaluation using accuracy, precision, recall, and F1-score. The final model provides explainable predictions suitable for financial compliance requirements.
+The project follows a rigorous ML pipeline: exploratory data analysis, data cleaning, feature selection, model training with cross-validation, hyperparameter tuning, and performance evaluation using accuracy, precision, recall, and F1-score.
 
 </details>
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="72px" align="center"><b>2025</b><br/>—<br/><b>Now</b></td>
-<td>
-
-### Software Engineer / Developer · *[Your Role — Update This]*
-*India*
-
-Actively working on production software spanning mobile development, AI/ML pipelines, and security systems. Owning end-to-end delivery of features from design through deployment.
-
-- Building cross-platform mobile applications using Flutter (Dart) for real-world use cases
-- Implementing quantum cryptographic protocols and security-focused backend systems in Python and TypeScript
-- Developing AI/ML models for classification and prediction across fintech and surveillance domains
-- Contributing to full-stack web development with TypeScript, Node.js, and PostgreSQL
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-5B21B6?style=flat-square&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
-
-> ⚠️ *Update this section with your actual internship/job details.*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Recognition | 📋 Details |
-|:---|:---|
-| **TinkerHer Hackathon Participant** | Built and deployed a Python/JS project — live at [tinkherhack-peach.vercel.app](https://tinkherhack-peach.vercel.app) |
-| **HeForHer Mobile App** | ⭐ 2 Stars · 1 Fork · Women's safety Flutter app with cross-platform support |
-| **Quantum Cryptography Research** | Implemented BB84 QKD protocol from scratch in both Python and TypeScript |
-| **18 Public Repositories** | Active GitHub presence spanning AI/ML, mobile, web, security, and quantum domains |
-| **Multi-domain Engineer** | Proficient across Flutter/mobile, Python/AI, TypeScript/web, and cryptography |
-| **IoT Club Contributor** | Active contributor to college IoT club initiatives |
-
-</div>
-
-> ⚠️ *Add your actual academic ranks, competition wins, certifications, and NPTEL/hackathon achievements here.*
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-> ⚠️ *Add your actual certifications below — replace placeholders with what you have earned.*
-
-**Amazon Web Services**
-
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-
----
-
-**Oracle**
-
-[![OCI AI](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-
----
-
-**NPTEL · IIT**
-
-[![NPTEL DSA](https://img.shields.io/badge/NPTEL-Elite%20Certification-7C3AED?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in/)
-
----
-
-**Cisco**
-
-[![Cisco NetAcad](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-
-</div>
-
----
-
-## 🧩 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Neha--george-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Neha-george)
-&nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Neha--george-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/neha-george)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Neha--george-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/Neha-george)
-&nbsp;&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Neha--george-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/neha_george)
-
-> ⚠️ *Update the above links with your exact usernames on each platform.*
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neha-george&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-george&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Neha-george&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=7C3AED&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=7C3AED&dates=8B5CF6" width="60%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Neha-george&theme=onestar&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Neha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neha-george&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -361,7 +222,7 @@ current_focus:
     - "Cloud-native deployment on AWS & GCP"
 
   building:
-    - "Expanding HeForHer with real-time location tracking and AI threat detection"
+    - "Expanding HeForHer with real-time features and improved UX"
     - "Quantum-safe communication layer for web applications (QSafe BB84)"
     - "AI-powered financial intelligence features for Expense Auditor"
 
@@ -369,7 +230,7 @@ current_focus:
     - "Quantum computing frameworks: Qiskit, PennyLane"
     - "WebAssembly for high-performance browser-side cryptography"
     - "Agent-based AI systems and autonomous security monitoring"
-    - "Women-in-tech community building and mentorship"
+    - "Open source contribution and community building"
 
   open_to:
     - "Full-time SWE / AI Engineer roles"
@@ -380,13 +241,23 @@ current_focus:
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Neha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neha-george&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🤝 Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-neha.george%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neha.george@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-nehageorge026%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehageorge026@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha-george)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-george26/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Neha--george-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neha-george)
 
