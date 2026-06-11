@@ -1,58 +1,18 @@
-<div align="center">
+# Neha George
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Neha%20George&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%7C%20TypeScript%20%7C%20Flutter%20%7C%20Quantum%20Cryptography%20%7C%20AI%2FML&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+B.Tech — Computer Science & Engineering (AI/ML Specialization) · India
 
-<br/>
+[LinkedIn](https://www.linkedin.com/in/neha-george26/) · [Email](mailto:nehageorge026@gmail.com) · [GitHub](https://github.com/Neha-george)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Building+things+that+matter+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+Flutter+%7C+Quantum+Crypto+%E2%9A%9B%EF%B8%8F;Mobile+%7C+Web+%7C+AI%2FML+%7C+Cryptography+%E2%9C%A8;Open+Source+%7C+Cybersecurity+%7C+Full+Stack+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![Specialization](https://img.shields.io/badge/Specialization-AI%20%26%20Machine%20Learning-6D28D9?style=flat-square&logo=python&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/📍-India-4C1D95?style=flat-square&logoColor=white)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-george26/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehageorge026@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neha-george)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neha-george&style=flat-square&color=7C3AED&label=Profile+Views)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Neha-george&color=7C3AED&style=flat-square)
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```python
-class NehaGeorge:
-    education   = "B.Tech – Computer Science & Engineering (Data Science)"
-    philosophy  = "Build technology that empowers people and solves real-world problems."
-    domains     = [
-        "Quantum Cryptography",
-        "AI / Machine Learning",
-        "Full Stack Development",
-        "Cybersecurity & Surveillance",
-        "Mobile Application Development",
-    ]
-    languages   = ["Python", "TypeScript", "JavaScript", "Dart", "SQL", "C++"]
-    currently   = "Building quantum-safe systems and AI-powered applications."
-```
+Software Engineer who enjoys working across the stack — from mobile and web development to AI/ML models and cryptographic systems. My projects span quantum key distribution, predictive modeling, full-stack development, and cybersecurity.
 
-I'm a **Software Engineer** who enjoys working across the stack — from mobile and web development to AI/ML models and cryptographic systems. My projects reflect a curiosity-driven approach to engineering, exploring domains like quantum key distribution, predictive modeling, and full-stack application development.
-
-I believe every line of code is an opportunity to make an impact. I engineer solutions that are purposeful, secure, and production-ready.
-
-**Open To:**
-&nbsp;![Full-Time](https://img.shields.io/badge/Full--Time%20Roles-Open-7C3AED?style=flat-square)
-&nbsp;![Internships](https://img.shields.io/badge/Internships-Open-6D28D9?style=flat-square)
-&nbsp;![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-Open-5B21B6?style=flat-square)
-&nbsp;![Research](https://img.shields.io/badge/Research%20Roles-Open-4C1D95?style=flat-square)
+Open to full-time roles, internships, open source collaboration, and research opportunities.
 
 ---
 
@@ -211,36 +171,6 @@ The project follows a rigorous ML pipeline: exploratory data analysis, data clea
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Post-quantum cryptography standards (CRYSTALS-Kyber, CRYSTALS-Dilithium)"
-    - "Advanced Flutter state management (Riverpod, Bloc)"
-    - "Large Language Models and RAG pipeline architectures"
-    - "Cloud-native deployment on AWS & GCP"
-
-  building:
-    - "Expanding HeForHer with real-time features and improved UX"
-    - "Quantum-safe communication layer for web applications (QSafe BB84)"
-    - "AI-powered financial intelligence features for Expense Auditor"
-
-  exploring:
-    - "Quantum computing frameworks: Qiskit, PennyLane"
-    - "WebAssembly for high-performance browser-side cryptography"
-    - "Agent-based AI systems and autonomous security monitoring"
-    - "Open source contribution and community building"
-
-  open_to:
-    - "Full-time SWE / AI Engineer roles"
-    - "Research internships in quantum computing or AI security"
-    - "Open source collaboration on impactful projects"
-    - "Hackathons focused on social impact and emerging tech"
-```
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -251,30 +181,8 @@ current_focus:
 
 ---
 
-## 🤝 Connect
+## Connect
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-nehageorge026%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehageorge026@gmail.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-george26/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Neha--george-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neha-george)
-
-<br/>
-
-*"I'm always open to conversations about engineering, AI, quantum computing, or building technology that matters. Feel free to reach out."*
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is not just logic — it's a statement about the world you want to build."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+- 📧 [nehageorge026@gmail.com](mailto:nehageorge026@gmail.com)
+- 💼 [linkedin.com/in/neha-george26](https://www.linkedin.com/in/neha-george26/)
+- 🐙 [github.com/Neha-george](https://github.com/Neha-george)
