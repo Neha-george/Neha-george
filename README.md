@@ -1,4 +1,4 @@
-# Neha George
+# Hi there! I'm Neha George 👋
 
 B.Tech — Computer Science & Engineering (Data Science) · India
 
@@ -18,7 +18,7 @@ B.Tech — Computer Science & Engineering (Data Science) · India
 
 ---
 
-## 🛠️ Domains & Specifications
+## 🛠️ Domains & Specifications I've Worked On
 
 | Domain | Specifications |
 |--------|----------------|
@@ -145,7 +145,7 @@ The project follows a rigorous ML pipeline: exploratory data analysis, data clea
 
 ---
 
-## 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
